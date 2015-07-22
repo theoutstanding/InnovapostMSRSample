@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Innovapost MSR Sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msr_prompt">Please slide the card through the card reader</string>
+    <string name="card_number_label">Card #:</string>
+    <string name="expiry_date_label">Expiry Date:</string>
+
+</resources>

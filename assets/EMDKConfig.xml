@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><!--This is an auto generated document. Changes to this document may cause incorrect behavior.--><wap-provisioningdoc>
+<characteristic type="ProfileInfo">
+<parm name="created_wizard_version" value="3.1.20"/>
+</characteristic>
+<characteristic type="Profile">
+<parm name="ProfileName" value="InnovapostMSRProfile"/>
+<parm name="ModifiedDate" value="2015-07-08 18:01:13"/>
+<parm name="TargetSystemVersion" value="4.4"/>
+
+
+<characteristic type="ActivitySelection" version="0.1">
+<parm name="emdk_name" value=""/>
+<characteristic type="Application">
+<parm name="package" value="com.example.innovapostmsrsample"/>
+<characteristic type="Activities">
+<parm name="activity" value="MainActivity"/>
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="MSR" version="0.1">
+<parm name="emdk_name" value=""/>
+<parm name="msr_input_enabled" value="true"/>
+</characteristic>
+<characteristic type="Intent" version="0.1">
+<parm name="emdk_name" value=""/>
+<parm name="intent_output_enabled" value="true"/>
+<parm name="intent_action" value="com.example.innovapostmsrsample.RECVR"/>
+<parm name="intent_category" value="android.intent.category.DEFAULT"/>
+<parm name="intent_delivery" value="0"/>
+<characteristic type="BasicDataFormatting">
+<parm name="bdf_enabled" value="true"/>
+<parm name="bdf_prefix" value=""/>
+<parm name="bdf_suffix" value=""/>
+<parm name="bdf_send_data" value="true"/>
+<parm name="bdf_send_hex" value="Default"/>
+<parm name="bdf_send_tab" value="Default"/>
+<parm name="bdf_send_enter" value="Default"/>
+</characteristic>
+</characteristic>
+</characteristic>
+</wap-provisioningdoc>
